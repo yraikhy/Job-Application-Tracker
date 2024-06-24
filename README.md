@@ -56,9 +56,6 @@ A web app to track all your job applications and status as a list.
    # Navigate to the frontend folder
    cd frontend
 
-   # Install the dependencies
-    npm install
-
    # Run the development server
    npm run dev
 
